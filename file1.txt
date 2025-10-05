@@ -1,1 +1,2 @@
 GitHub FA1 
+This is a new line added for diff test.
